@@ -1,0 +1,52 @@
+Name,Abbreviation,Region
+Alabama,AL,Southeast
+Alaska,AK,Far West
+Arizona,AZ,Mountain West
+Arkansas,AR,South Central
+California,CA,Far West
+Colorado,CO,Mountain West
+Connecticut,CT,New England
+Delaware,DE,Midsouth
+Florida,FL,Southeast
+Georgia,GA,Southeast
+Hawaii,HI,Far West
+Idaho,ID,Mountain West
+Illinois,IL,Great Lakes
+Indiana,IN,Great Lakes
+Iowa,IA,Midwest
+Kansas,KS,Midwest
+Kentucky,KY,Midsouth
+Louisiana,LA,South Central
+Maine,ME,New England
+Maryland,MD,Midsouth
+Massachusetts,MA,New England
+Michigan,MI,Great Lakes
+Minnesota,MN,Great Lakes
+Mississippi,MS,Southeast
+Missouri,MO,Midwest
+Montana,MT,Mountain West
+Nebraska,NE,Midwest
+Nevada,NV,Far West
+New Hampshire,NH,New England
+New Jersey,NJ,Northeast
+New Mexico,NM,Mountain West
+New York,NY,Northeast
+North Carolina,NC,Midsouth
+North Dakota,ND,Midwest
+Ohio,OH,Great Lakes
+Oklahoma,OK,South Central
+Oregon,OR,Northwest
+Pennsylvania,PA,Northeast
+Rhode Island,RI,New England
+South Carolina,SC,Southeast
+South Dakota,SD,Midwest
+Tennessee,TN,Midsouth
+Texas,TX,South Central
+Utah,UT,Mountain West
+Vermont,VT,New England
+Virginia,VA,Midsouth
+Washington,WA,Northwest
+West Virginia,WV,Midsouth
+Wisconsin,WI,Great Lakes
+Wyoming,WY,Mountain West
+Washington DC,DC,Midsouth
